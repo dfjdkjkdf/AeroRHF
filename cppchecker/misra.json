@@ -1,0 +1,8 @@
+{
+    "script": "misra.py",
+    "args": [
+        "--rule-texts=cppchecker/MISRA-C_2012_Rules.txt",
+        "--severity=warning"
+    ]
+}
+
